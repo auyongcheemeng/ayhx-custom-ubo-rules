@@ -2,6 +2,6 @@
 
 Custom μBlock rules written for certain regional .MY TLDs
 
-To use add to *3rd-party filters* in a uBO.
+To use add to *3rd-party filters* tab in uBO/ABP settings.
 
 `https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/list.txt`
