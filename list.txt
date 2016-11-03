@@ -5,14 +5,14 @@
 ||www.cimbclicks.com.my/*/images/*/*banner*
 
 ! general image resource
-||www.cimbclicks.com.my/*/acquisition/*
-||www.cimbclicks.com.my/clkup/images/*
+||www.cimbclicks.com.my/*/acquisition/*$image
+||www.cimbclicks.com.my/clkup/images/*$image
 
 ! logout misc banner
-||www.cimbclicks.com.my/cms/upload/securebanner/*
+||www.cimbclicks.com.my/cms/upload/securebanner/*$image
 
-! cosmetic welcome advert / shorts promo
-www.cimbclicks.com.my##td >.octo_bubble
+! cosmetic: welcome advert / shortcuts promo
+www.cimbclicks.com.my##td > .octo_bubble
 
 ! depreciated
 !||www.cimbclicks.com.my/images/cms/banner/*banner*.jpg
