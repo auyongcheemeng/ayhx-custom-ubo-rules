@@ -34,3 +34,8 @@ www.cimbclicks.com.my##.has-dots.slider
 ! cosmetic: clean up
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
+
+!# forum.lowyat.net
+
+! cosmetic: clean up
+forum.lowyat.net##div[id^=ad_]
