@@ -8,6 +8,9 @@
 ! side bar self-promo
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
 
+! login self-promo
+||www.cimbclicks.com.my/images/cms/banner/*$image
+
 ! general image resource
 ||www.cimbclicks.com.my/*/acquisition/*$image
 ||www.cimbclicks.com.my/clkup/images/*$image
@@ -17,6 +20,9 @@
 
 ! cosmetic: welcome advert / shortcuts promo
 www.cimbclicks.com.my##td > .octo_bubble
+
+! cosmetic: login self promo
+www.cimbclicks.com.my##.has-dots.slider
 
 ! depreciated
 !||www.cimbclicks.com.my/images/cms/banner/*banner*.jpg
