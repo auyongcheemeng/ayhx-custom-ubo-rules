@@ -8,6 +8,9 @@
 ||www.cimbclicks.com.my/*/acquisition/*
 ||www.cimbclicks.com.my/clkup/images/*
 
+! logout misc banner
+||www.cimbclicks.com.my/cms/upload/securebanner/*
+
 ! cosmetic welcome advert / shorts promo
 www.cimbclicks.com.my##td >.octo_bubble
 
