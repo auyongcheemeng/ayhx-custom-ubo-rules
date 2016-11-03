@@ -1,0 +1,8 @@
+!#  cimbclicks.com.my
+! https://www.cimbclicks.com.my/wps/myportal/*
+||www.cimbclicks.com.my/clkup/images/acquisition/campaign/*.gif
+||www.cimbclicks.com.my/images/cms/banner/*banner*.jpg
+||www.cimbclicks.com.my/clkup/images/acquisition/*
+||www.cimbclicks.com.my/ibk_/images/va/*banner*
+||www.cimbclicks.com.my/ibk_/images/*banner*
+www.cimbclicks.com.my###alert > tbody > tr > td > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr:nth-of-type(2) > td > .octo_bubble
