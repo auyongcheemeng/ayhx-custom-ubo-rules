@@ -12,7 +12,6 @@
 www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
 ! depreciated
-!||www.cimbclicks.com.my/images/cms/banner/*banner*.jpg
 !||www.cimbclicks.com.my/ibk_/images/va/*banner*
 !||www.cimbclicks.com.my/ibk_/images/*banner*
 
