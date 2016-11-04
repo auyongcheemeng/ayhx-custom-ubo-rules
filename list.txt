@@ -35,7 +35,12 @@ www.cimbclicks.com.my##.has-dots.slider
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
 
-!# forum.lowyat.net
+!# lowyat.net
+
+! matching: leaderboard, billboard, mobilebillboard
+||www.lowyat.net/*board.php
+||www.lowyat.net/showcase.php
 
 ! cosmetic: clean up
+www.lowyat.net##div > iframe
 forum.lowyat.net##div[id^=ad_]
