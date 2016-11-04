@@ -4,34 +4,25 @@
 
 !#  cimbclicks.com.my (updated 2016-11-03)
 ! based on: https://www.cimbclicks.com.my/wps/myportal/*
-
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
 ||www.cimbclicks.com.my/images/cms/banner/*$image
 ||www.cimbclicks.com.my/*/acquisition/*$image
 ||www.cimbclicks.com.my/clkup/images/*$image
 ||www.cimbclicks.com.my/cms/upload/securebanner/*$image
-
-! cosmetic: self promos
 www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
-
 ! depreciated
 !||www.cimbclicks.com.my/images/cms/banner/*banner*.jpg
 !||www.cimbclicks.com.my/ibk_/images/va/*banner*
 !||www.cimbclicks.com.my/ibk_/images/*banner*
 
-!# thestar.com.my
-
-! cosmetic: clean up
+!# thestar.com.my (updated 2016-11-04)
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
 
-!# lowyat.net
-
+!# lowyat.net (updated 2016-11-04)
 ! matching: leaderboard, billboard, mobilebillboard
 ||www.lowyat.net/*board.php
 ||www.lowyat.net/showcase.php
-
-! cosmetic: clean up
 www.lowyat.net##div > iframe
 forum.lowyat.net##div[id^=ad_]
