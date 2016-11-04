@@ -1,27 +1,18 @@
 !## ayhx-custom-ubo-rules
 !## TODO: Sort detailed listed into per individial site text files.
-!##       A script will generate the master list (without/less detailed comments).
+!##       A script will generate minified master list
 
 !#  cimbclicks.com.my (updated 2016-11-03)
 ! based on: https://www.cimbclicks.com.my/wps/myportal/*
 
-! side bar self-promo
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
-
-! login self-promo
 ||www.cimbclicks.com.my/images/cms/banner/*$image
-
-! general image resource
 ||www.cimbclicks.com.my/*/acquisition/*$image
 ||www.cimbclicks.com.my/clkup/images/*$image
-
-! logout misc banner
 ||www.cimbclicks.com.my/cms/upload/securebanner/*$image
 
-! cosmetic: welcome advert / shortcuts promo
+! cosmetic: self promos
 www.cimbclicks.com.my##td > .octo_bubble
-
-! cosmetic: login self promo
 www.cimbclicks.com.my##.has-dots.slider
 
 ! depreciated
