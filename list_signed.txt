@@ -1,4 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
+! Checksum: WWRMH5byXDBeRgo5NhhkPQ
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !!cimbclicks.com.my (updated 2016-11-03)
