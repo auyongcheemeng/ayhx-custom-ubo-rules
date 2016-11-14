@@ -1,5 +1,4 @@
 ! Title: AYHX custom ubo rules
-! Checksum: 9EyqgzUDdDJEy691gCcNNw
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !!cimbclicks.com.my (updated 2016-11-03)
