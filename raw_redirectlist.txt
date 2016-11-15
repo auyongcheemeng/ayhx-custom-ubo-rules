@@ -1,5 +1,4 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: 7yFXBp/8244Gr/gJKUdlvA
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 ! Redirect: https://cdn.rawgit.com/auyongcheemeng/ayhx-custom-ubo-rules/master/

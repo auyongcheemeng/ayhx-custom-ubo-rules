@@ -14,8 +14,12 @@ www.cimbclicks.com.my##.has-dots.slider
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
 !!lowyat.net (updated 2016-11-04)
-!!matching: leaderboard, billboard, mobilebillboard
 ||www.lowyat.net/*board.php
 ||www.lowyat.net/showcase.php
 www.lowyat.net##div > iframe
 forum.lowyat.net##div[id^=ad_]
+forum.lowyat.net##[id*=ads]
+@@images-cdn.lowyat.net/forum/default/*$image
+forum.lowyat.net##a[href^="http://lowy.at/"]
+forum.lowyat.net##body:style(background: rgb(229,229,229) !important)
+forum.lowyat.net###ipbwrapper:style(width: 96% !important)
