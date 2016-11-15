@@ -1,8 +1,7 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: 7yFXBp/8244Gr/gJKUdlvA
+! Checksum: 0PrvX67ZmLnWSR9S+fXAAg
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
-! Redirect: https://cdn.rawgit.com/auyongcheemeng/ayhx-custom-ubo-rules/master/
 !!cimbclicks.com.my (updated 2016-11-03)
 !!based on: https://www.cimbclicks.com.my/wps/myportal/*
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
