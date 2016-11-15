@@ -1,5 +1,6 @@
+[Adblock Plus 2.3.1]
+! Checksum: 2ExPvGE2bEDdHsH57rPjMw
 ! Title: ayhx - custom uBlock₀ rules (abp compatibility version)
-! Checksum: yvKf30QhNEMk1NQU5ksNBw
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 5 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules

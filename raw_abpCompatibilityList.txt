@@ -1,3 +1,4 @@
+[Adblock Plus 2.3.1]
 ! Title: ayhx - custom uBlock₀ rules (abp compatibility version)
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 5 days
