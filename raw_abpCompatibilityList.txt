@@ -1,4 +1,4 @@
-! Title: ayhx - custom uBlock₀ rules
+! Title: ayhx - custom uBlock₀ rules (abp compatibility version)
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 5 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -25,6 +25,6 @@ www.lowyat.net##div > iframe
 forum.lowyat.net##div[id^=ad_]
 forum.lowyat.net##[id*=ads]
 forum.lowyat.net##a[href^="http://lowy.at/"]
-forum.lowyat.net##body:style(background: rgb(229,229,229) !important)
-forum.lowyat.net###ipbwrapper:style(width: 96% !important)
-
+!
+!! for compatibility
+||images-cdn.lowyat.net/forum/*/background*$image
