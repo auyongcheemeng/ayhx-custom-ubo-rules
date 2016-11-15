@@ -3,7 +3,7 @@
 ! Expires: 5 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !
-! --- cimbclicks.com.my [updated 2016-11-03]
+! --- cimbclicks.com.my --- [updated 2016-11-03]
 !!based on: https://www.cimbclicks.com.my/wps/myportal/*
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
 ||www.cimbclicks.com.my/images/cms/banner/*$image
@@ -13,11 +13,11 @@
 www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
 !
-! -- thestar.com.my (updated 2016-11-04)
+! --- thestar.com.my  --- [updated 2016-11-04]
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
 !
-! --- lowyat.net [updated 2016-11-15]
+! --- lowyat.net --- [updated 2016-11-15]
 ||www.lowyat.net/*board.php
 ||www.lowyat.net/showcase.php
 !||images-cdn.lowyat.net/forum/*/*$image
