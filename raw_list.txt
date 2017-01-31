@@ -35,3 +35,9 @@ www.gsc.com.my##div[class=Ads]
 ! --- tgv.com.my --- [updated 2016-12-01]
 ||www.tgv.com.my/contentAsset/image/*/fileAsset/*
 www.tgv.com.my##div[class="promoBg"]:style(background-image: none !important)
+!
+! —-- thesundaily.my —-- [updated 2017-01-31]
+||www.thesundaily.my/*epaper*.gif
+www.thesundaily.my##div[id^=“fancybox-“] 
+www.thesundaily.my###block-block-2
+www.thesundaily.my###block-block-27
