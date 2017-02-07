@@ -44,7 +44,7 @@ www.thesundaily.my###block-block-27
 !
 ! -- lelong.com.my --- [updated 2017 02-08]
 ||lec.lelong.com.my/promotions/*^$image
-||lelong.com.my/*.gif^$image,domain=lelong.com.my|76.my
+||lelong.com.my/*.gif|$image,domain=lelong.com.my|76.my
 ||s.76.my/*/MerchantBanners/*^$image
 www.lelong.com.my##div[id^=facebook]
 www.lelong.com.my##div[id=leaderBoard]
