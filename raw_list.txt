@@ -46,4 +46,4 @@ www.thesundaily.my###block-block-27
 ||lec.lelong.com.my/promotions/*^$image
 ||s.76.my/*/MerchantBanners/*^$image
 www.lelong.com.my##div[id^=facebook]
-www.leleng.com.my##div#leaderBoard
+www.leleng.com.my###leaderBoard
