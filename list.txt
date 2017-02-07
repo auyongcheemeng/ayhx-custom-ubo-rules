@@ -1,5 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: P8bAIyLCf6UDI7SFTY/HHw
+! Checksum: LRY5Q2MV+Ry+bbKA1LXimQ
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -39,7 +39,7 @@ www.tgv.com.my##div[class="promoBg"]:style(background-image: none !important)
 !
 ! —-- thesundaily.my —-- [updated 2017-01-31]
 ||www.thesundaily.my/*epaper*.gif
-www.thesundaily.my##div[id^=“fancybox-“] 
+www.thesundaily.my##div[id^=fancybox] 
 www.thesundaily.my###block-block-2
 www.thesundaily.my###block-block-27
 !
