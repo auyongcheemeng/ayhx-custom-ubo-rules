@@ -1,5 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: Lm0cRxvzniGbgXsUyKtHiQ
+! Checksum: uye9LKh1+yLXHBxA+xq1Bg
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -45,6 +45,8 @@ www.thesundaily.my###block-block-27
 !
 ! -- lelong.com.my --- [updated 2017 02-08]
 ||lec.lelong.com.my/promotions/*^$image
+||*.gif^$image,domain=www.lelong.com.my
 ||s.76.my/*/MerchantBanners/*^$image
 www.lelong.com.my##div[id^=facebook]
-www.leleng.com.my###leaderBoard
+www.lelong.com.my##div[id=leaderBoard]
+www.lelong.com.my##a[href*=popup]
