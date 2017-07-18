@@ -50,3 +50,6 @@ www.thesundaily.my###block-block-27
 www.lelong.com.my##div[id^=facebook]
 www.lelong.com.my##div[id=leaderBoard]
 www.lelong.com.my##a[href*=popup]
+
+! -- lazada.com.my --- [updated 2017-07-18]
+www.lazada.com.my##.stackbanner
