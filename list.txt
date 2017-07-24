@@ -1,5 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: 5VBsTRGM4R9ZeFdF90ncug
+! Checksum: BW5xsMF/6CK/TGj3mpIZ0A
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -33,7 +33,7 @@ forum.lowyat.net###ipbwrapper:style(width: 96% !important)
 ! --- gsc.com.my --- [updated 2016-11-24]
 www.gsc.com.my##div[class=Ads]
 !
-! --- tgv.com.my --- [updated 2016-12-01]
+! --- tgv.com.my --- [updated 2017-07-24]
 ||newcdn.tgv.com.my/*/resize_w/210/resize_h/565/$image
 ||newcdn.tgv.com.my/*/resize_w/360/resize_h/300$image
 ||newcdn.tgv.com.my/*/resize_w/728$image
