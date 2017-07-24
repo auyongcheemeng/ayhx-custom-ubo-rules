@@ -33,8 +33,12 @@ forum.lowyat.net###ipbwrapper:style(width: 96% !important)
 www.gsc.com.my##div[class=Ads]
 !
 ! --- tgv.com.my --- [updated 2016-12-01]
-||www.tgv.com.my/contentAsset/image/*/fileAsset/*
-www.tgv.com.my##div[class="promoBg"]:style(background-image: none !important)
+||newcdn.tgv.com.my/*/resize_w/210/resize_h/565/$image
+||newcdn.tgv.com.my/*/resize_w/360/resize_h/300$image
+||newcdn.tgv.com.my/*/resize_w/728$image
+www.tgv.com.my##div[class*="promoBg"]:style(background-image: none !important)
+www.tgv.com.my##div[class*="Ads"]
+www.tgv.com.my##.clearfix.monthPromo.lightBg
 !
 ! —-- thesundaily.my —-- [updated 2017-01-31]
 ||www.thesundaily.my/*epaper*.gif
