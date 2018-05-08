@@ -1,5 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: nl6E2HVvYazri4zXxYRLQQ
+! Checksum: w6DbVRdptVhlO8wTBRJFFA
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -11,8 +11,10 @@
 ||www.cimbclicks.com.my/*/acquisition/*$image
 ||www.cimbclicks.com.my/clkup/images/*$image
 ||www.cimbclicks.com.my/cms/upload/securebanner/*$image
+||www.cimbclicks.com.my/resource.web/clicks.login.banner/*$image
 www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
+www.cimbclicks.com.my###carousel-banner
 !
 ! --- thestar.com.my  --- [updated 2016-11-04]
 www.thestar.com.my##div[id$=AdSlot]
