@@ -3,16 +3,17 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !
-! --- cimbclicks.com.my --- [updated 2016-11-03]
+! --- cimbclicks.com.my --- [updated 2018-05-08]
 !!based on: https://www.cimbclicks.com.my/wps/myportal/*
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
 ||www.cimbclicks.com.my/images/cms/banner/*$image
 ||www.cimbclicks.com.my/*/acquisition/*$image
 ||www.cimbclicks.com.my/clkup/images/*$image
 ||www.cimbclicks.com.my/cms/upload/securebanner/*$image
-||www.cimbclicks.com.my/resource.web/clicks.login.banner/*$image
 www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
+!!based on newer 2018 login page
+||www.cimbclicks.com.my/resource.web/clicks.login.banner/*$image
 www.cimbclicks.com.my###carousel-banner
 !
 ! --- thestar.com.my  --- [updated 2016-11-04]
