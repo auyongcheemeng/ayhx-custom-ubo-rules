@@ -1,10 +1,10 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: ACWqvDfSPevVcuCpicjRog
+! Checksum: 8ncR1A+F0ja3oseRl0uDTQ
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !
-! --- cimbclicks.com.my --- [updated 2018-05-08]
+! --- cimbclicks.com.my --- [updated 2021-02-11]
 !!based on: https://www.cimbclicks.com.my/wps/myportal/*
 ||www.cimbclicks.com.my/*/images/*/*banner*$image
 ||www.cimbclicks.com.my/images/cms/banner/*$image
@@ -15,11 +15,15 @@ www.cimbclicks.com.my##td > .octo_bubble
 www.cimbclicks.com.my##.has-dots.slider
 !!based on newer 2018 login page
 ||www.cimbclicks.com.my/resource.web/clicks.login.banner/*$image
+||www.cimbclicks.com.my/resource.web/cms.secured.banner/*.jpg$image
 www.cimbclicks.com.my###carousel-banner
 !
 ! --- thestar.com.my  --- [updated 2016-11-04]
 www.thestar.com.my##div[id$=AdSlot]
 www.star2.com##div[class^=ads_]
+!
+! --- nst.com.my --- [updated 2020-04-14]
+||assets.nst.com.my/images/articles/*.gif$image
 !
 ! --- lowyat.net --- [updated 2016-11-15]
 ||www.lowyat.net/*board.php
@@ -48,13 +52,13 @@ www.tgv.com.my##div[class*="promoBg"]:style(background-image: none !important)
 www.tgv.com.my##div[class*="Ads"]
 www.tgv.com.my##.clearfix.monthPromo.lightBg
 !
-! —-- thesundaily.my —-- [updated 2017-01-31]
+! --- thesundaily.my --- [updated 2017-01-31]
 ||www.thesundaily.my/*epaper*.gif
 www.thesundaily.my##div[id^=fancybox] 
 www.thesundaily.my###block-block-2
 www.thesundaily.my###block-block-27
 !
-! -- lelong.com.my --- [updated 2017-02-08]
+! --- lelong.com.my --- [updated 2017-02-08]
 ||lelong.com.my/*.gif^$image
 ||lec.lelong.com.my/promotions/*^$image
 ||76.my/images/homepage/*.gif^$image
@@ -62,6 +66,10 @@ www.thesundaily.my###block-block-27
 www.lelong.com.my##div[id^=facebook]
 www.lelong.com.my##div[id=leaderBoard]
 www.lelong.com.my##a[href*=popup]
-
-! -- lazada.com.my --- [updated 2017-07-18]
+!
+! --- lazada.com.my --- [updated 2017-07-18]
 www.lazada.com.my##.stackbanner
+!
+! --- shopee.com.my --- [updated 2021-02-04]
+shopee.com.my##.shopee-modal__transition-enter-done.shopee-popup
+!
