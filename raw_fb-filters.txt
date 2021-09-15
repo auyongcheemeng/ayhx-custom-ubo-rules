@@ -4,3 +4,6 @@
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
 !
 ! --- facebook.com --- [updated 2021-09-15]
+@@||fbcdn.net/safe_image.php?$image,domain=facebook.com|facebookcorewwwi.onion|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion,badfilter
+/^https?:\/\/external.*.fna.fbcdn.net\/safe_image.php\?.*(tenor|giphy)/$image,third-party,domain=facebook.com|facebookcorewwwi.onion|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+!
