@@ -8,8 +8,8 @@ Updates: low, infrequently (that is, when I find annoyances)
 
 Add the following URL to "3rd-party filters" tab in uBlock₀ settings to use:
 
-Malaysia / regional websites filter list:
+Malaysia / regional websites filter list:    
 `https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/list.txt`
 
-Facebook Annoyances / Giphy, tenor etc:
+Facebook Annoyances / Giphy, tenor etc:    
 'https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/fb-filters.txt'
