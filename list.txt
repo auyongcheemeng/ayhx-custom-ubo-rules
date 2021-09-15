@@ -37,7 +37,7 @@ forum.lowyat.net##a[href^="http://lowy.at/"]
 forum.lowyat.net##body:style(background: rgb(229,229,229) !important)
 forum.lowyat.net###ipbwrapper:style(width: 96% !important)
 forum.lowyat.net##a[id="logo"]:style(background: none !important)
-forum.lowyat.net##div[id="logostrip"]
+forum.lowyat.net###logostrip
 forum.lowyat.net###ipbwrapper > div:nth-of-type(5)
 !
 ! --- gsc.com.my --- [updated 2018-03-08]
