@@ -1,5 +1,5 @@
 ! Title: ayhx - custom uBlock₀ rules
-! Checksum: AwUvZwvd5Fs6Gme6fvDytQ
+! Checksum: fVIvp8NB9d3BYtQNdeA7WA
 ! Description: Custom fix for M'sian regional site annoyances.
 ! Expires: 3 days
 ! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
@@ -25,7 +25,7 @@ www.star2.com##div[class^=ads_]
 ! --- nst.com.my --- [updated 2020-04-14]
 ||assets.nst.com.my/images/articles/*.gif$image
 !
-! --- lowyat.net --- [updated 2016-11-15]
+! --- lowyat.net --- [updated 2021-09-15]
 ||www.lowyat.net/*board.php
 ||www.lowyat.net/showcase.php
 @@images-cdn.lowyat.net/forum/default/*$image

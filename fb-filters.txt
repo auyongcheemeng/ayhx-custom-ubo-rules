@@ -1,0 +1,7 @@
+! Title: ayhx - custom uBlock₀ rules
+! Checksum: QT1UjCJq5cNYLZ+Lnu/NWg
+! Description: Custom fix for FB animated/reaction GIFs site annoyances.
+! Expires: 3 days
+! Homepage: https://github.com/auyongcheemeng/ayhx-custom-ubo-rules
+!
+! --- facebook.com --- [updated 2021-09-15]

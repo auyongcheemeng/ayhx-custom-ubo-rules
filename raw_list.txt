@@ -24,7 +24,7 @@ www.star2.com##div[class^=ads_]
 ! --- nst.com.my --- [updated 2020-04-14]
 ||assets.nst.com.my/images/articles/*.gif$image
 !
-! --- lowyat.net --- [updated 2016-11-15]
+! --- lowyat.net --- [updated 2021-09-15]
 ||www.lowyat.net/*board.php
 ||www.lowyat.net/showcase.php
 @@images-cdn.lowyat.net/forum/default/*$image
