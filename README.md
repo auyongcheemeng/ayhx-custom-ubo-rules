@@ -12,4 +12,4 @@ Malaysia / regional websites filter list:
 `https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/list.txt`
 
 Facebook Annoyances / Giphy, tenor etc:    
-'https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/fb-filters.txt'
+`https://raw.githubusercontent.com/auyongcheemeng/ayhx-custom-ubo-rules/master/fb-filters.txt`
